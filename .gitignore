@@ -45,7 +45,7 @@ CTestTestfile.cmake
 # ACLiC 컴파일 부산물. rootlogon.C 같은 소스는 커밋 대상이다.
 *_C.so
 *_C.d
-*_C_ACLiC_dict_rdict.pcm
+*_ACLiC_dict_rdict.pcm
 AutoDict_*
 
 # ── Python ──────────────────────────────────────────────────────────
